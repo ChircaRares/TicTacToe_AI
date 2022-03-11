@@ -1,6 +1,6 @@
 # TicTacToe_AI
 
-I made an invicible bot for Tic Tac Toe using Java.
+I created an invicible bot for Tic Tac Toe using Java.
 The game is played by one player and after each one of his moves, the bot will automatically make its next move. In order to play, you simply run the project and place your symbol in one of the empty cells (the board it`s like a square matrix with 3 rows and 3 columns - from 0 to 2).
 
 For the implementation part there are 3 classes:
